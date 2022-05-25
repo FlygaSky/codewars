@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/5bb0c58f484fcd170700063d
+
 // There are pillars near the road. The distance between the pillars is the same
 // and the width of the pillars is the same. Your function accepts three arguments:
 

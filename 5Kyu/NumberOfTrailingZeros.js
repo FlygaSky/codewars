@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/solutions/javascript/me/best_practice
+
 // Write a program that will calculate the number of trailing zeros in a factorial of a given number.
 // N! = 1 * 2 * 3 * ... * N
 

@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/58afa8185eb02ea2a7000094
+
 // Task
 
 // Given an array arr and a number n. Call a pair of numbers from the array a Perfect Pair if their sum is equal to n.

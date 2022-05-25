@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/573d498eb90ccf20a000002a
+
 // The Barksdale Organization has a simple method for encoding telephone numbers exchanged via pagers:
 // "Jump to the other side of the 5 on the keypad, and swap 5's and 0's."
 

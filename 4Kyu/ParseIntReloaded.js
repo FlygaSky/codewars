@@ -1,3 +1,4 @@
+// https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5
 // In this kata we want to convert a string into an integer. The strings simply represent the numbers in words.
 
 // Examples:

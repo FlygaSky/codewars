@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/576bb71bbbcf0951d5000044/solutions/javascript
+
 // Given an array of integers.
 
 // Return an array, where the first element is the count of positives numbers
@@ -10,18 +12,21 @@
 
 function countPositivesSumNegatives(input) {
     resultArr = []
-    if (input != undefined || input != null) {
-        let countPositive = 0
-        let sumNegative = 0
-        input.forEach(value => {
-            if (value > 0) {
-                countPositive++
-            } if (value < 0) {
-                sumNegative += value
-            }
-        })
-        resultArr.push(countPositive, sumNegative)
-    } return resultArr
+    let countPositive = 0
+    let sumNegative = 0
+    if(input != null) {
+      input.forEach(value => {
+          if (value > 0) {
+              countPositive++
+          } if (value < 0) {
+              sumNegative += value
+          }
+      })
+    }
+    if(countPositive != 0 || sumNegative != 0){
+      resultArr.push(countPositive, sumNegative)
+    }
+    return resultArr
 }
 
 console.log(countPositivesSumNegatives([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15]))

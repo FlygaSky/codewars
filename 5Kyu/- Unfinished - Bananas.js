@@ -50,7 +50,7 @@ var bananas = function (s) {
     
     // calculating the number of possible combinations
     let possibleCombinations = 0
-    if(indexesOfB)
+    // if(indexesOfB)
 
     
     let result = []

@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/545af3d185166a3dec001190
+
 // Create a method each_cons that accepts a list and a number n, 
 // and returns cascading subsets of the list of size n, like so:
 

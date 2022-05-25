@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/521ef596c106a935c0000519
+
 // Write a method that takes a maximum bound and returns all primes up to and including the maximum bound.
 
 // For example,
